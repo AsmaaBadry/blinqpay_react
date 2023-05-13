@@ -1,0 +1,30 @@
+
+.list-item {
+  color: #fff;
+  cursor: pointer;
+}
+.list-item:hover {
+  color: #ffbc51;
+}
+.NavbarButton {
+  color: #fff;
+  background-color: #ffbc51;
+  width: 100px;
+  border: none;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+button.navbar-toggler {
+  background-color: #ffbc51;
+}
+
+.header {
+  background: linear-gradient(99.22deg, #5c0e62 1.27%, #00b5d0 92.23%);
+}
+.Logo {
+  color: #fff;
+}

@@ -1,0 +1,34 @@
+.payments {
+  margin-top: 450px;
+  background-color: #f7f3fa;
+  padding-top: 20%;
+}
+
+.svg-sec {
+  z-index: -1;
+  /* position: absolute; */
+  bottom: 20%;
+  /* left: -5%; */
+  margin-top: -29%;
+  margin-left: -24%;
+}
+/* .sections{
+  left: -5%;
+} */
+.curve2 {
+  height: 200px;
+  margin-top: -10%;
+  background-color:  #f7f3fa;
+  background-image: url('E:\iti2023\jobTask\blinqpay-react\public\assets\vector3.png');
+}
+.icons-lab {
+  color:gray
+}
+
+@media (max-width: 768px) {
+  .curve2 {
+  background-image: url('');
+
+  }
+  
+}

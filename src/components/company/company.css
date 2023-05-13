@@ -1,0 +1,19 @@
+.Parag {
+  padding-left: 25%;
+}
+.Savings {
+  padding-right: 27%;
+  color: #857885;
+  font-weight: 700;
+}
+
+.Secure {
+  font-size: small;
+  color: #e23434;
+  font-weight: 700;
+}
+@media (max-width: 768px) {
+  .Parag {
+    margin-bottom: 10%;
+  }
+}

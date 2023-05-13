@@ -1,0 +1,51 @@
+.image1,
+.image2,
+.image3,
+.image4,
+.image5 {
+  width: 30%;
+}
+.img1 {
+  align-items: center;
+  justify-content: center;
+
+  width: 30%;
+}
+.person-img5 {
+  z-index: -2;
+}
+.person-img4 {
+  z-index: -1;
+}
+
+.Parag2{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 20%;
+ }
+ .Smart {
+   color: #857885;
+   font-weight: 700;
+ }
+
+ .Transaction {
+  font-size:small;
+  color: #e23434;
+  font-weight: 700;
+}
+
+@media (max-width: 768px) {
+  .image1,
+  .image2,
+  .image3,
+  .image4,
+  .image5 {
+    width: 30%;
+  }
+
+  .img1 {
+    width: 20%;
+  }
+
+}
